@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: backed
+  ai:
+    google:
+      genai:
+        api-key: ${GEN_AI_API_KEY}
+
+security:
+  allowed-origin: ${ALLOWED_ORIGIN}
