@@ -34,7 +34,7 @@
 1.  **Clone the repository**
 
     ```bash
-    git clone https://github.com/your-username/resumelytics.git
+    git clone https://github.com/ThuatPhan/resumelytics.git
     ```
 
 2.  **Setup Backend**
